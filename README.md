@@ -36,6 +36,8 @@ The logo features:
 ```bash
 git clone https://github.com/reezmahanan/reezma-logo.git
 
+-------
+
 ## Responsive Behavior
 The logo is designed to be responsive across different device sizes:
 
