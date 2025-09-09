@@ -30,12 +30,6 @@ The logo features:
 - Modern blue gradient common in tech branding
 - Dark mode compatible background
 
-## Installation
-
-1. Clone this repository or download the HTML file:
-```bash
-git clone https://github.com/reezmahanan/reezma-logo.git
-
 -------
 
 ## Responsive Behavior
@@ -47,11 +41,19 @@ Small Screens: Maintains legibility even on very small displays
 License
 Distributed under the MIT License. See LICENSE for more information.
 
-Contact
+## Contact
 Project Link: https://github.com/yourusername/reezma-logo
 
-Acknowledgements
+## Acknowledgements
 Font Awesome - For potential icon integration
 Google Fonts - Alternative font options
 CodePen - Inspiration for animation effects
+
+## Installation
+
+1. Clone this repository or download the HTML file:
+```bash
+git clone https://github.com/reezmahanan/reezma-logo.git
+
+
 
