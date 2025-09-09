@@ -34,4 +34,22 @@ The logo features:
 
 1. Clone this repository or download the HTML file:
 ```bash
-git clone https://github.com/yourusername/reezma-logo.git
+git clone https://github.com/reezmahanan/reezma-logo.git
+
+## Responsive Behavior
+The logo is designed to be responsive across different device sizes:
+
+Desktop: Full-sized logo with all visual elements
+Mobile: Slightly compact version with preserved readability
+Small Screens: Maintains legibility even on very small displays
+License
+Distributed under the MIT License. See LICENSE for more information.
+
+Contact
+Project Link: https://github.com/yourusername/reezma-logo
+
+Acknowledgements
+Font Awesome - For potential icon integration
+Google Fonts - Alternative font options
+CodePen - Inspiration for animation effects
+
