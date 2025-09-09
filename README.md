@@ -1,28 +1,37 @@
-# Responsive Mobile Login Interface
+# Reezma HTML/CSS Logo
 
-This project implements a responsive mobile login interface designed to enhance user experience on mobile devices. The interface is built using HTML, CSS, and JavaScript, ensuring compatibility across various screen sizes.
+<p align="center">
+  <img src="screenshots/reezma-logo.png" alt="Reezma Logo Preview" width="300"/>
+</p>
+
+<p align="center">
+  A simple, modern, and responsive HTML/CSS logo for tech projects
+</p>
+
+## About The Project
+
+This project provides a customizable HTML and CSS-based logo for "Reezma," designed with IT and tech aesthetics in mind. The logo features modern styling, animations, and tech-related visual elements, making it perfect for websites, web applications, and other digital platforms in the tech industry.
 
 ## Features
-- **Responsive Design**: Adapts to different screen sizes for optimal viewing on mobile devices.
-- **User-Friendly Layout**: Simple and intuitive layout that guides users through the login process.
-- **Validation**: Client-side validation to ensure users enter valid credentials.
 
-## Technologies Used
-- **HTML5**: For structure and semantic content.
-- **CSS3**: For styling and layout adjustments.
-- **JavaScript**: For dynamic behavior and client-side validation.
+- **Pure HTML/CSS Implementation** - No JavaScript dependencies required
+- **Tech-Focused Design** - Includes code brackets, circuit patterns, and binary elements
+- **Fully Responsive** - Scales appropriately on all device sizes
+- **Interactive Elements** - Hover animations and cursor blinking effect
+- **Easy Customization** - Simple CSS variables to change colors and styles
+- **Lightweight** - Minimal file size for fast loading
 
-## Getting Started
-To get a local copy up and running, follow these steps:
+## Preview
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/reezmahanan/Reezma-logo.git
-   ```
-2. Open `index.html` in your browser.
+The logo features:
+- Code-style typography with a monospace font
+- Tech-inspired visual elements (circuit patterns, binary digits)
+- Glowing animations and blinking cursor effect
+- Modern blue gradient common in tech branding
+- Dark mode compatible background
 
-## Contributing
-Contributions are welcome! Please create a pull request for any improvements or features you'd like to add.
+## Installation
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+1. Clone this repository or download the HTML file:
+```bash
+git clone https://github.com/yourusername/reezma-logo.git
