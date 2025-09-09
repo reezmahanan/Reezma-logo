@@ -42,7 +42,7 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Project Link: https://github.com/yourusername/reezma-logo
+Project Link: https://github.com/reezmahanan/Reezma-logo
 
 ## Acknowledgements
 Font Awesome - For potential icon integration
